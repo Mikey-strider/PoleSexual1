@@ -87,6 +87,11 @@ h2 {
     color: #8d02ff;
 }
 
+#copy {
+    color: snow;
+
+}
+
 
 @media (max-width: 1200px) {
     #headingGroup h1 {
