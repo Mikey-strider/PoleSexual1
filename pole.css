@@ -1,0 +1,96 @@
+body {
+    background-image: url("./Images/Group.JPG");
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #05050a;
+    font-family: "playfair display", sans-serif;
+
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.heading {
+    text-align: center;
+    background-color: #2a163a;
+}
+
+h1 {
+    color: #e6ff05e5;
+}
+
+h2 {
+    color: #eeff05e5;
+    font-size: 2rem;
+}
+
+#contact {
+    color: #49fd01;
+}
+
+#comment {
+    color: #49fd01;
+}
+
+#aboutUs {
+    color: #49fd01;
+    background-color: rgba(51, 47, 64, 0.8);
+    border-radius: 5%;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+    color: #49fd01;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #8d02ff;
+}
+
+#mainNavbar .navbar-brand {
+    color: #50ff40;
+    font-size: 1.5rem;
+}
+
+.navbar.scrolled {
+    background: #2a163a;
+    transition: background 300ms;
+}
+
+.sites {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#insta {
+    color: #49fd01;
+}
+
+#insta .nav-link:hover {
+    color: #8d02ff;
+}
+
+#twitch {
+    color: #49fd01;
+}
+
+#twitch .nav-link:hover {
+    color: #8d02ff;
+}
+
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+}
