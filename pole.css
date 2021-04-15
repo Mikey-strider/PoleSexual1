@@ -28,6 +28,13 @@ h2 {
     font-size: 2rem;
 }
 
+#video {
+    height: 400px;
+    width: 500px;
+    border-radius: 5px;
+    outline: 0;
+}
+
 #contact {
     color: #49fd01;
 }
@@ -49,8 +56,6 @@ h2 {
 
 #mainNavbar .nav-link {
     color: #49fd01;
-    /* border-radius: 5px;
-    background-color: #2a163a; */
 }
 
 #mainNavbar .nav-link:hover {
