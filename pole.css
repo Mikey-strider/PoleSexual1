@@ -49,6 +49,8 @@ h2 {
 
 #mainNavbar .nav-link {
     color: #49fd01;
+    /* border-radius: 5px;
+    background-color: #2a163a; */
 }
 
 #mainNavbar .nav-link:hover {
