@@ -1,3 +1,5 @@
+
+//Sound Effect click event
 const effectLink = document.getElementById('effectLink'); 
 
 
